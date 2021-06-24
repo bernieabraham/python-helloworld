@@ -31,4 +31,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: bernieabraham/python-helloworld:latest
+          tags: bernie83/python-helloworld:latest
